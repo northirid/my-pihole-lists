@@ -345,3 +345,6 @@ bnc.lt
 fast.fonts.net
 cdn.crowdtwist.com
 arc.msn.com
+router.cint.com
+www.samplicio.us
+samplicio.us
