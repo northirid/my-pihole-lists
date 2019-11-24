@@ -348,3 +348,11 @@ arc.msn.com
 router.cint.com
 www.samplicio.us
 samplicio.us
+api.rlje.net
+intercom.io
+traffic.libsyn.com
+adf.ly
+www.adf.ly
+www.ow.ly
+amzn.to
+amzn.com
