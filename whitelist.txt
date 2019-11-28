@@ -356,3 +356,5 @@ www.adf.ly
 www.ow.ly
 amzn.to
 amzn.com
+dpm.demdex.net
+browser.pipe.aria.microsoft.com
